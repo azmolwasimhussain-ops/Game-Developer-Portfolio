@@ -61,5 +61,4 @@ Built using **HTML, CSS, JavaScript**, with a futuristic **neon/cyberpunk theme*
 ---
 ### Clone the repository
 ```bash
-git clone https://github.com/azmolwasimhussain-ops/<your-repo-name>.git
-
+[https://github.com/azmolwasimhussain-ops/Game-Developer-Portfolio/tree/main](https://github.com/azmolwasimhussain-ops/Game-Developer-Portfolio.git)
